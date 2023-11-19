@@ -6,3 +6,7 @@
 ######  A '6' header
 
 ![Image of Yogitocat](https://octodex.github.com/images/yogitocat.png)
+
+```javascript
+document.getElementById("app").innerText = "App"
+```
