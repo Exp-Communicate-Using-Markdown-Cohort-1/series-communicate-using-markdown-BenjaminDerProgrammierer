@@ -10,3 +10,9 @@
 ```javascript
 document.getElementById("app").innerText = "App"
 ```
+
+- [X] Turn the lights off
+- [ ] Turn on the green lights
+- [ ] Put on the black hoodie
+- [ ] Make an Image of Me 🧑‍💻
+- [ ] Print out my "hacking" picture
