@@ -4,3 +4,5 @@
 ####  A '4' header
 #####  A '5' header
 ######  A '6' header
+
+![Image of Yogitocat](https://octodex.github.com/images/yogitocat.png)
